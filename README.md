@@ -27,11 +27,11 @@ Ressources du meetup sur LangChain (Décembre 2023)
 ### 📁 rl_intro_meetup
 Ressources du meetup sur le Reinforcement Learning
 - `q_learning.py`: Application interactive Streamlit démontrant l'algorithme Q-Learning
-- `grid_world.py`: Implémentation de l'environnement grille
-- 📁 `pearl_library/`
-  - `agent.py`: Implémentation des agents de base pour le RL
-- 📁 `hands on/`
-  - `agent.py`: Template pour l'implémentation d'agents personnalisés
+- `requirements.txt`: Liste des dépendances Python requises
+- 📁 `slides/`: Support de présentation du meetup
+- 📁 `pearl_library/`: Exemples d'utilisation de la librairie PEARL
+  - `agent.py`: Implémentation d'un agent RL sur l'environnement CartPole
+  - `recommender.py`: Système de recommandation utilisant le Deep Q-Learning
 
 ### 📁 vikit_ai
 Ressources du meetup sur Vikit AI
